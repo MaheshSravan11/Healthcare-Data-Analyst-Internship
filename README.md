@@ -1,5 +1,3 @@
-# Healthcare-Data-Analyst-Internship
-Healthcare Data Analyst Internship - Project Tasks and Analysis
 # Healthcare Data Analyst Internship
 
 This repository contains my work for the Healthcare Data Analyst Internship.
