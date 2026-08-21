@@ -19,3 +19,18 @@ Diabetes 130-US Hospitals dataset from the UCI Machine Learning Repository.
 - Project timeline
 
 More tasks and analysis will be added to this repository as the internship progresses.
+
+## Task 2 – Data Cleaning and Preprocessing Methodology
+
+This task focuses on designing a systematic methodology for cleaning and preprocessing healthcare data using Python concepts and libraries such as Pandas and NumPy.
+
+### Task 2 Deliverable
+- Data quality assessment
+- Missing-value handling
+- Duplicate detection
+- Anomaly and outlier handling
+- Categorical data cleaning
+- Normalization and standardization
+- Data validation
+- Python preprocessing pseudocode
+- Data cleaning workflow
